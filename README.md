@@ -108,3 +108,4 @@ Add your team members' names and responsibilities here.
 ## Disclaimer
 
 CivicLens AI is a decision-support prototype. AI-generated groupings and priority scores require validation and human review. The prototype does not independently verify complaints, contact authorities, or guarantee that an issue has been resolved.
+Add AI complaint categorization
